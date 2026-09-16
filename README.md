@@ -1,3 +1,6 @@
+Repository link:
+Demo Link: https://akhilapudi6.github.io/Student-Register-Result-Portal/
+
 Student Registration & Result Portal
 
 A mini project that combines HTML5, Bootstrap, and JavaScript to demonstrate how these technologies work together to create an interactive and responsive web application.
