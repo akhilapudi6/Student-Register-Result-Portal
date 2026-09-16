@@ -1,5 +1,5 @@
-Repository link:
-Demo Link: https://akhilapudi6.github.io/Student-Register-Result-Portal/
+Repository link: https://github.com/akhilapudi6/Student-Register-Result-Portal
+Demo Link:       https://akhilapudi6.github.io/Student-Register-Result-Portal/
 
 Student Registration & Result Portal
 
